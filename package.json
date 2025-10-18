@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Tu dvv ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TUDONG05/nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Dong Tu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TUDONG05/nodejs/issues"
+  },
+  "homepage": "https://github.com/TUDONG05/nodejs#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
